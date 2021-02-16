@@ -1,2 +1,9 @@
-# pagina-login-instagram-dio
-Desenvolvimento da página de login do Instagram pelo curso de Web da Digital Inovation One
+# Página de login do Instagram
+
+## Sobre
+Projeto desenvolvido durante o Bootcamp HTML Web Developer oferecido pela DIO (Digital Innovation One) com o intuito de colocar em prática tudo aquilo que foi lecionado nas aulas anteriores.
+
+## Tecnologias
+* Visual Studio Code
+* HTML
+* CSS
